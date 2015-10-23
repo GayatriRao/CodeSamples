@@ -1,5 +1,7 @@
 
 '''
+Author: Gayatri Rao, Septemper 2015
+
 Use Facebook's API and other open APIs of your choosing to compare Rare's Facebook posts 
 (facebook.com/rare) to one of its competitors such as IJ Review (facebook.com/IjReview) 
 or The Verge (facebook.com/verge). Choose 2 of the following to analyze:
